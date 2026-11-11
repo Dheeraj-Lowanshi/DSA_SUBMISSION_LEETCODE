@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0394-decode-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/3110-score-of-a-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
