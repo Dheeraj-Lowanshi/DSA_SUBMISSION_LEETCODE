@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [2560-house-robber-iv](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1095-find-in-mountain-array) |
+| [2560-house-robber-iv](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 ## Interactive
 |  |
@@ -79,8 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2560-house-robber-iv](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2560-house-robber-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2560-house-robber-iv](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2560-house-robber-iv) |
 <!---LeetCode Topics End-->
