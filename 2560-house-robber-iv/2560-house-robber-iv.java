@@ -1,10 +1,13 @@
 class Solution {
     public boolean isPossible(int[] nums, int k, int capacities){
         int count=0;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i] <= capacities){
+        int i=0;
+        while (i < nums.length) {
+            if(nums[i] <= capacities) {
                 count++;
-                i++;
+                i += 2; 
+            }else {
+                i++; 
             }
         }
         return count>=k;
