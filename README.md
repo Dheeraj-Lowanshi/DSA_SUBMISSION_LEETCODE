@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1095-find-in-mountain-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2460-apply-operations-to-an-array) |
