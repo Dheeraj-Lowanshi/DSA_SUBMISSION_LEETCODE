@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0049-group-anagrams) |
 | [0303-range-sum-query-immutable](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0946-validate-stack-sequences](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0049-group-anagrams) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0049-group-anagrams) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
