@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0946-validate-stack-sequences](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0946-validate-stack-sequences) |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0319-bulb-switcher) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dheeraj-Lowanshi/DSA_SUBMISSION_LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
